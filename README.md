@@ -1,5 +1,5 @@
 
-# **Assignment 3: Optimization of a City Transportation Network
+# Assignment 3: Optimization of a City Transportation Network
 
 ## **1. Objective**
 
